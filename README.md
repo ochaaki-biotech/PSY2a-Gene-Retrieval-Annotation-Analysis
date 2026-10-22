@@ -4,7 +4,7 @@
 **Course:** Recombinant DNA Technologies  
 **Practical 1**
 
-**Student:** Ochaki Nyarwa Absolom  
+**Student:** Ochaaki Nyarwa Absolom  
 **Registration Number:** 2025/A/KIB/6554/F  
 
 ---
@@ -50,6 +50,6 @@ The practical involved retrieving, annotating, and analysing the complete coding
 
 ## Author
 
-**Ochaki Nyarwa Absolom**  
+**Ochaaki Nyarwa Absolom**  
 Kabale University  
 2025/A/KIB/6554/F
